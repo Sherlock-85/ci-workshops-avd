@@ -12,3 +12,4 @@
       vars:
         avd_catalogs_filters:
           - skip_tests: [VerifyMemoryUtilization, VerifyLoggingErrors]
+        #make build-site-1 deploy-site-1
